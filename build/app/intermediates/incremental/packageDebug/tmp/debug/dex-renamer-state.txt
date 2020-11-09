@@ -1,0 +1,4 @@
+#Fri Oct 02 18:51:20 BRT 2020
+base.0=/home/auror100/Desktop/ProjetosFlutter/coin_conversor/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
